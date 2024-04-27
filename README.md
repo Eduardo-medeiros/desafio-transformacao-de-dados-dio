@@ -30,6 +30,8 @@ Todos os departamentos possuem um gerente associado.
 
 Depois eu fiz o mesclar consultas(extrema esquerda) employee e departament para criar uma tabela employee com o nome dos departamentos associados aos colaboradores. A mescla terá como base a tabela employee.
 
+Exclui o azure departament.Mgr_start_date, azure departament.Dept_create_date, azure departament.Dnumber, Dno, Super_Ssn, Ssn, azure departament.Mgr_ssn
+
 Depois mesclei as colunas de Nome e Sobrenome para ter apenas uma coluna definindo os nomes dos colaboradores.
 
 Depois eu fiz o mesclar consultas(extrema esquerda) departament e dept_locations para logo depois mesclar os nomes de departamentos e localização.
