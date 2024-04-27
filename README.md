@@ -42,12 +42,35 @@ Exclui azure dept_locations.Dnumber
 
 ## Passo 02 – Distribruição de colunas:
 
+<img src="1.PNG">
 
+<img src="2.PNG">
 
+## Passo 02 – Exclusão de culonas que não serão usadas no relatório.
 
+Essn - works_on
 
+Dnum - projects
+
+Essn - dependent
+
+Mgr_ssn - departament
+
+Address - employee
+
+Bdate - employee
+
+Pnumber - project
+
+sex -dependent
+
+## Relatório.
+
+[link]()
 
 ## Obs:
 
-Tive que criar as tabeles sem constraint e relacionamentos, pois quando eu colocava igual estava no repositório no git hub, no Power Bi algumas tabelas ficavam vazias.
+- Tive que criar as tabeles sem constraint e relacionamentos, pois quando eu colocava igual estava no repositório no git hub, no Power Bi algumas tabelas ficavam vazias.
+
+- Todas as mesclas de tabelas foram de mesclar consultas como novas.
 
