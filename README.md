@@ -28,7 +28,20 @@ O employee com Super_Ssn com valor 0 é o gerente.
 
 Todos os departamentos possuem um gerente associado.
 
-Depois eu fiz o mesclar consultas employee e departament para criar uma tabela employee com o nome dos departamentos associados aos colaboradores. A mescla terá como base a tabela employee.
+Depois eu fiz o mesclar consultas(extrema esquerda) employee e departament para criar uma tabela employee com o nome dos departamentos associados aos colaboradores. A mescla terá como base a tabela employee.
+
+Depois mesclei as colunas de Nome e Sobrenome para ter apenas uma coluna definindo os nomes dos colaboradores.
+
+Depois eu fiz o mesclar consultas(extrema esquerda) departament e dept_locations para logo depois mesclar os nomes de departamentos e localização.
+
+O mesclar combina as tabelas com base em uma coluna de junção (como o comando join no SQL), neste caso a atribuição não seria útil em juntar as informações de duas colunas de tabelas diferentes, só se o objetivo fosse empilhar tabelas verticalmente (ou seja, adicionar mais linhas na tabela indiferente das colunas, o que é útil ao incluir mais dados que advém da mesma estrutura de colunas).
+
+Exclui azure dept_locations.Dnumber
+
+## Passo 02 – Distribruição de colunas:
+
+
+
 
 
 
