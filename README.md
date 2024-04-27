@@ -66,7 +66,7 @@ sex -dependent
 
 ## Relatório.
 
-[link](desafio-tratamento-de-dados.pbix)
+[link para download](desafio-tratamento-de-dados.pbix)
 
 ## Obs:
 
